@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="custom_bright_yellow">#E0A526</color>
+    <color name="custom_medium_dark_yellow">#59E0A526</color>
+    <color name="custom_dark_yellow">#80E0A526</color>
+    <color name="custom_blurred_yellow">#8A84683B</color>
+    <color name="custom_dark_blue">#FF1C2738</color>
+    <color name="custom_darker_blue">#141D2B</color>
+</resources>
